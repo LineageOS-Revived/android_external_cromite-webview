@@ -20,8 +20,6 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_OVERRIDES_PACKAGES := webview
-
 LOCAL_MODULE := cromite-webview
 LOCAL_MODULE_CLASS := APPS
 LOCAL_PRODUCT_MODULE := true
